@@ -16,6 +16,6 @@
         <button type="submit">Einloggen</button>
     </form>
     <p>Noch kein Konto? <a href="register.php">Jetzt registrieren</a></p>
-    
+    <p>Hallo zusammen</p>
 </body>
 </html>
