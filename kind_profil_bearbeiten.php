@@ -27,4 +27,6 @@ if (!$kind) {
 
     <button type="submit">Speichern</button>
     <button onclick="history.back()">Zurück</button>
+    <a href="kind_loeschen.php?k_id=<?= $kind['kind_id'] ?>" onclick="return confirm('Möchten Sie dieses Kind wirklich löschen?');">Kind löschen</a>
+
 </form>
